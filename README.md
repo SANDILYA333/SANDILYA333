@@ -1,5 +1,35 @@
 # 💫 About Me:
-I'm currently working on Gen Ai <br>
+### Sandy | Computer Science Undergraduate
+
+Aspiring Software & Machine Learning Engineer focused on building applied 
+Generative AI systems, based in Hyderabad, India.
+
+I work across the full stack — from backend architecture to model integration 
+— with a particular interest in LLM-powered applications: agentic workflows, 
+retrieval-augmented generation, and evaluation pipelines.
+
+**Currently building:**
+- **ghost-ai** — an AI-driven interview platform with a hybrid ATS scoring 
+  system (embedding similarity + keyword coverage), built on a MERN stack 
+  with a LangGraph state machine for orchestration
+
+**Selected work:**
+- **JARVIS Second Brain** — a personal RAG assistant using LangChain, 
+  ChromaDB, and Ollama for local inference
+- **IntelliLearn** — an AI-assisted learning platform (MERN)
+- Applied ML fundamentals implemented from scratch, including neural 
+  networks, backpropagation, and self-attention mechanisms
+
+**Approach:**
+I follow a first-principles, build-to-understand methodology — studying core 
+theory, implementing it from scratch, then applying established libraries 
+with a clear understanding of what they abstract away.
+
+**Focus areas:** Generative AI · LLM Application Development · Full-Stack 
+Engineering · System Design
+
+📫 Open to discussing internships, collaborations, or interesting problems 
+in applied AI.
 
 
 ## 🌐 Socials:
